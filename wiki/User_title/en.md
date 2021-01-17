@@ -30,4 +30,5 @@ On the forum sections of the [old osu! website](https://old.ppy.sh)<!-- TODO: wi
 
 ## Trivia
 
-- User titles are referred to as "rank titles" throughout the game's code. This is a leftover name from when osu! was built on top of [phpBB](https://www.phpbb.com/).
+- User titles are referred to as "rank titles" throughout the game's code. This is a leftover name from when osu! was built on top of [phpBB](https://www.phpbb.com/). 
+  
